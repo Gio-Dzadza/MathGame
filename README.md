@@ -2,4 +2,4 @@
 - JS
 - Css
 - HTML
-Open and enjoy [GitHub Pages](https://pages.github.com/)
+ Open and enjoy [GitHub Pages](https://pages.github.com/)
