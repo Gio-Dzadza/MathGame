@@ -3,4 +3,4 @@
 - Css
 - HTML
 
- Open and enjoy [GitHub Pages](https://pages.github.com/)
+ Open and enjoy [Exercise](https://gio-dzadza.github.io/Mathgame/)
